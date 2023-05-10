@@ -1,6 +1,6 @@
  ### 👋 Hi there! Welcome to Rakshya's Git profile.
 
-- 🌱  “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” — Albert Einstein
+- 🌱   “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” — Albert Einstein
 
 
 <!--
